@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Dart and web 3
 - 💞️ I’m looking to collaborate on application development and cypto web
 - 📫 How to reach me via my Email tumuhimbise92@gmail.com 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: love babies
 
 <!---
